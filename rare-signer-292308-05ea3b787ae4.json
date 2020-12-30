@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rare-signer-292308",
+  "private_key_id": "05ea3b787ae44799d0c65e9befcb7ad61004d503",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCLf8h196PuToQs\nyADAwpKzx9XalTbWFa9zYE6SsQ1VtXZxkZSDsXksEBf1bkHn/E+2JZPRXywpf3RI\nbWJkF/w+R1YoeoEvY7BJCAL96hcXnhNAv39MBwMib+H2gnOx+X5bRjuxKK4R+81T\nuli+XRXBca/VSWN9wiY5p38uNUssQacQmetRHhSFY5Q7zLsuqGOf87z00fB9OCnZ\n2b8adys6buW8b0FXUsEwN7EyPB+iLqe+uo2Mpt4dlU1KbYpFF0KKTcNJIAkW9sI5\ntErcHXIxaRdyEYgdG10UiQN/MbkWvz6F9faN/1SvF1/MADY4qqVNr5p8aRJhA8Kw\nOnJPebyLAgMBAAECggEABT1p0RbZ884xf6rV3Ge7xBvfzthi3cfJmsmTTo9KRYJ7\ncsQQklioP/iayTZvmi4Lfi5UTxkGX6QZ98w2VewsJo9L/TSvF9rkeNnNVUDlxk1V\nMGBKN86UxCHPvVmSOmQLnUs6pQ82sYPz1MXfuKJB6BbWRkXZJt3dOtrkYKf2rTCO\nNQRig9sXKIYLYFTF86X6T9p4LeIWcpOf8myydQ8XmP+fbYaoVqx6Pn044NMp3L3g\nOp4GAPfQoVwX6bQENPqlnfo2T8AUZZOr4p0/xSbsqTFqq3oxhfFPhIX2mguyRWjC\nDPGMCCpDWvy/RPtbTclcKvlaZvcr22kVkuySFgW7gQKBgQDE8a7SpjC1mxk+mJLQ\n6wf7GBBM4Rmn9EkPvtErvIUhvNipZC71vmieT3M62Q4gmPNjx2GzbVaKfJfU6RDW\nf+k1dlShOJvxqb+H2CbPNRJcDveygNujKxaDzRlecrsD8tQ747OuFcrQ9TkqkVld\nDkQXEv8QypBew/i+nnLSRnOr5wKBgQC1VF5PMbaBexnqAsPW2RYK/Bm/jNQec+uD\nA5zd0kGJuAXKTw+rqrdpSNDE/dcTfOYCbebuMZsI/RT9IC5UtOXgrrtcc+wCZXvF\nQXbkOjHhWoBxY0ZeoduiejVwwRzEABE3hdYl8boXQ/WfxoBPxsu68OeZllkAmLnb\n1pubAvs1vQKBgQCevAUiN1zPIwFH2IWM6cJ2+UA6FrwtCNHSZQQGcl4DgUhHzz2i\nSCPeZT8E0Wl3kI+rfkoa6id0W1OtAWTW3iXDN2qivxPBxgVfojI1lBsGI/I053Mf\nolz1QlwOKf7eAdxZoP9zcpETtnKrApe6TwNGbcMzb3DJUL6uNNtq6+nTRQKBgF7i\ntS8Pvobm2dqgc8ZbdrNs1DRuBxmgYx79pvpUacMdLrp8wKB+BtfrKIPMqN0jwGCJ\nDgyanJwJgxAp5NSijKAUDysD5f4jCK9h4ErxQOTBrPComEwwunO9K3XDN8BAoMHD\nIRpd8Zj3EPL4tnAIgNdj9G1kRVKQmME2/doRp06pAoGAERCQH7sHtWzkkVgb7X/s\np64KXZJSS6GzxiruF4iIEXIE2wBbwXfGjHeY8Vgkt/Xea3i1s9PNoMp4RmSjtf2y\npFWjdQcb0W8zVySWILFnifmrjLTVcb8iq91b/G0kXHOPfshRUoFV4gKKOZyFmizB\ns2rXG6HginTHjVwtDYijiII=\n-----END PRIVATE KEY-----\n",
+  "client_email": "poshitha-service@rare-signer-292308.iam.gserviceaccount.com",
+  "client_id": "106524854399107073500",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/poshitha-service%40rare-signer-292308.iam.gserviceaccount.com"
+}

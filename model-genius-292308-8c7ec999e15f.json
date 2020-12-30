@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "model-genius-292308",
+  "private_key_id": "8c7ec999e15f7a5a693193b9aae3974b918e5435",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCyVUjbVYYTA3xE\n8FOS9jcUxUiGRdvgsDpknJbnWwVdVsCX6wPA/AFehLUjLlKCV+tRu0N4/QsE2ZLT\n5q9zhX8h+Rk5Q4FvhHVJqQGP6fcsU7mLWln0ZfKfv1CaEf/lNyIklLBCgZF2ppLV\nDLxgriEyh/P+MYwQsEQI2T3HNc2Ndk217K5Vo16lPClY+nPzKU7r5tECXzao471z\np1gwXqAkt/WhKIAXJ2gy7L5Yv2XGjG71mT8HJPgwuo/I8lsRakdTenuPz8G5vapw\nRIr4QtKzl7H91GL8bKHBZ3tp80MBCRe6kmRRWT9Y3y8MYid0oskdsO6SU+P8zN8p\nvGLjK8ijAgMBAAECggEADLCb7BukXEMBu0gcslb56Wz2cbOT52Oy7AjmhhUIhzFO\nqCDNlhR4pnisCRJZRbQq5xh7vybGe3ReCd0e/AnyV4EJxfTjR4O18uVnWo3MDGfy\nypNF1mnQv4RWIHiKbI2lTNQVzM26g6ZryWRMHVcWvqlE+AAflupsFPMcfcn61AeK\nF6KBcBX46BGndSgf4EwxepfqeNVuaUpz05UuY+h9m2kyTn7u45+O0OgMJQkCjNfu\nJbn22rjbRpPAbCuMxyvhTqblfEs+pWDIvCgKl2svrVli0b2aAF3L4iasGMV8AyrT\nd/HaiX7u/lsVd59WRsu20BlMymfrpAJ3PLh4n8lIoQKBgQDl4XOi0TMUCl/9QgoV\nAd/AZnZrvLmZRcbQ526iO3HymaNQT71xxTePvAMOYusXNhoad0FU7zy+B+KpaBB0\nhO0KRDA7VliP4Pg6DyRyxgqOhjcHJOWkU4fA+B1LS1vnV2I0hgUCb/bsY1/ZEZfr\nhofnosqYmy8XwQEuSnvsBDI5YQKBgQDGmHfHR1GUFCxfGM0EXv1uMz2PTrW2fTkG\nBE12W08hUip7VzlM7IzDt2TQCqA1Ge5BMIZEr7S8gooPR3C9F2QLDJbLJtgBGANv\nnTg0/Y+SEglnSvrj/Vw0a7gguYa1oFQneqJ9gCPo4xqBK5MLGCCOb2SnY9KzXsj1\nyCE86nPsgwKBgDyVhlxKtiN5+IJOfUm8DLQwTNVoD6INebBkzguDjyxYwWnRGiR5\nzYLcEhIgj8S2RXrkIxu3UVLj0SDEhFGxFqe2AOAiiYShzcm/Y+O7vdyCEs6XMs50\nFTsOKOpHGhmGNiORjpBt4a27Iu+aa2dvNTIe/TXq8CZaf20rxC0XjgUBAoGAOgk0\nd7gPzwZWMTQ+NZjM1veCde66i6nskCWRvZTRextX7tN+m0xFlqxxeZqhVuNNDR/x\nHQF7/9rmHbDy8U90nQYAyz1+wlMSLfv0AQhYfIdo2BbBWv8fgvI3zNhq1YkVDrR3\n59UaqWQ0yqrBPey/FuDWuVQiruh0Md9aV0LsvaECgYB1triK5R/zZaMs2qZ0WSOe\nxzno3TVBHmpIvhD86VcfcyUtYdcxy+uA+iA6JNDu9xGvokvdFhERMy/ozOElaf2l\nSpHDcofdvltG0DMYIAgaNt9rtxp2cZ2NNinprsKoXpuPk0cTNNALFy4mHuevk0iP\nRrV74Oz6B4KO/71MYaSEQQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "poshitha-service@model-genius-292308.iam.gserviceaccount.com",
+  "client_id": "114983422808515979571",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/poshitha-service%40model-genius-292308.iam.gserviceaccount.com"
+}

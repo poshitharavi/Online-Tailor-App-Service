@@ -1,0 +1,17 @@
+[
+    { 
+        "bodySize": 44,
+        "height": 168,
+        "chest": 88,
+        "waist": 76,
+        "leg": 74,
+        "frontSleeve": 43
+    },{ 
+        "bodySize": 50,
+        "height": 177,
+        "chest": 100,
+        "waist": 88,
+        "leg": 79,
+        "frontSleeve": 46
+    }
+]
