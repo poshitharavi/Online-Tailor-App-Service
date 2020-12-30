@@ -14,7 +14,8 @@ out meeting face to face.
 
 ## Links 
 * [Tailoring Application Service](https://github.com/poshitharavi/Online-Tailor-App-Service)
-* [Tailoring Application Android Application](https://github.com/poshitharavi/Online-tailoring-App-Android)
+* [Tailoring Application Android Application For Client](https://github.com/poshitharavi/Online-tailoring-App-Android-For-Client.git)
+* [Tailoring Application Android Application For Tailor](https://github.com/poshitharavi/Online-tailoring-App-Android-For-Tailor.git)
 
 ## Other services used 
 
